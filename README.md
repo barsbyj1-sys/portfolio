@@ -7,4 +7,4 @@ Palantir Foundry + OSINT projects (in progress)
 - Python / OSINT
 
 ## Palantir Foundry Demo
-- [Order Due Date Chart](exact-filter.png)
+- [Order Due Date Chart](Screenshot 2025-10-29 140643.png)
